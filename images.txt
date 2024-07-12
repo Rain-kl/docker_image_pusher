@@ -4,3 +4,5 @@ justsong/one-api
 jwetzell/guacamole
 jc21/nginx-proxy-manager
 ffdfgdfg/nps
+ffdfgdfg/npc
+nextcloud
