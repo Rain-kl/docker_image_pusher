@@ -8,3 +8,5 @@ ffdfgdfg/npc
 nextcloud
 mysql
 weejewel/wg-easy
+mariadb
+redis:alpine
