@@ -10,3 +10,5 @@ mysql
 weejewel/wg-easy
 mariadb
 redis:alpine
+dreamacro/clash:latest
+centralx/clash-dashboard
