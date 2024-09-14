@@ -14,3 +14,5 @@ dreamacro/clash:latest
 haishanh/yacd
 elasticsearch:7.13.3
 kibana:7.13.3
+whyour/qinglong
+imlala/ubuntu-xfce-vnc-novnc:latest
