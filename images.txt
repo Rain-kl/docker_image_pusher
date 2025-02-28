@@ -7,7 +7,7 @@ ffdfgdfg/nps
 ffdfgdfg/npc
 nextcloud
 mysql
-weejewel/wg-easy
+ghcr.io/wg-easy/wg-easy
 mariadb
 redis:alpine
 dreamacro/clash:latest
